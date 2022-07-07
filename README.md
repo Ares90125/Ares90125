@@ -167,48 +167,4 @@ Work Terms<br>
 <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> 
 </a>
 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-</a>
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a>
-
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-</a> 
-
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-</a>
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-</a>
-
-<a href="https://heroku.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-</a>
-</p>
-<hr>
-<p align="center">
-  <img align="" height='145px' src="https://github-readme-stats.vercel.app/api?username=astro2020-lovely&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=highcontrast" />
-  <img align="" height='145px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=astro2020-lovely&hide_title=true&layout=compact&count_private=true&langs_count=8&theme=highcontrast" />
-</p>
-<hr>
-<p align = "center">
-<img src="https://github-profile-trophy.vercel.app/?username=astro2020-lovely&column=8&title=Commit,Star,Follower,Repository,PullRequest,Issue,MultiLanguage,Organizations&theme=onedark"/>
-</p>
-<hr>
-<!-- <p align="center">
-  <a href="https://api.whatsapp.com/send?phone=16176520909&text=Hi!"><img align="" width='24%' src="Whatsapp.png" title="Whatsapp"/></a>
-  <a href="https://t.me/truestdev"><img align="" width='23.9%' src="Telegram.png" title="Telegram"/></a>
-  <a href="https://join.skype.com/invite/YE3Jyx31x2Eg"><img align="" width='24%' src="Skype.png" title="Skype"/></a>
-  <a href="mailto:lovelysong1205@gmail.com"><img align="" width='24%' src="Mail.png" title="Mail"/></a>
-</p>
 <hr> -->
