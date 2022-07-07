@@ -32,13 +32,6 @@ My Goal is to give my clients over 100% satisfaction and to implement your ideas
 <p align="center">📶 Mobile development skills 📶<br></p>
  ✔ Android ✔ iOS ✔ iPad ✔ Flutter ✔ Dart ✔ React Native ✔ SQLite ✔ Firebase<br><br>
 </p>
-<p align="right">
-Being a talented and passionate developer with full-time availability, I love to work for a long-term relationship with reasonable clients.<br>
-If you hire me, I will do my best.<br>
-Warmest regards.<br><br>
-Work Terms<br>
-⏰ I can work 40+ hours per week, I can work in any timezone.
-</p>
 <hr>
 <p align="center" style="height: 90%">
 <p align="center"> 
