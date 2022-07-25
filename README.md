@@ -13,13 +13,13 @@
 <br>👆 Passionate Full-Stack Web & Mobile Specialist 👇<br><br>
 </h3>
 <p>
-<div>
+<div style='display:flex, justify-content:center'>
 <div>As a Professional developer who has 7 years of rich experience in web and mobile development and can handle all the web and mobile applications including backend & frontend and I can provide continuous support in the future.<br>
 
 Always I embrace new tech and everyone’s opinion is welcome and expected, and also To provide Best solutions perfectly, I'm attentive to the architecture of the Project, clean code, product design, continuous integration, task prioritization, and automatic deployment, Project Deadline.<br>
 
 My Goal is to give my clients over 100% satisfaction and to implement your ideas real so that make your business thrive and grow.<br><br></div>
-<a href="https://app.daily.dev/Ares"><img src="https://api.daily.dev/devcards/eccb807f92024a0593c8f34836504495.png?r=sw3" width="400" alt="Ares90125's Dev Card"/></a>
+<a href="https://app.daily.dev/Ares"><img src="https://api.daily.dev/devcards/eccb807f92024a0593c8f34836504495.png?r=sw3" width="200" alt="Ares90125's Dev Card"/></a>
 </div>
 <p align="center">🌐 Web development skills 🌐<br></p>
 👉 Front-end<br>
