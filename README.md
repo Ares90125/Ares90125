@@ -156,6 +156,32 @@ My Goal is to give my clients over 100% satisfaction and to implement your ideas
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
 </a>
 
+  <p  align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+    <br>
+    <table border="0" align="center">
+        <tr border="0">
+            <td width="50%" align="center">        
+            <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Ares90125&theme=cobalt&show_icons=true&include_all_commits=true&count_private=true&custom_title=Ares90125's Github Stats" />
+              <br></br>
+            <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ares90125&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+            </td>
+            <td width="50%" align="center">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ares90125&show=html,ruby,css,java,objective-c,python,starlark,dockerfile,shell,solidity,rust" />
+            </td>
+        </tr>
+    </table>
+    <br>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>  
+
+<p align="center">
+    <div align=center>
+      <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+        <img src="https://github-profile-trophy.vercel.app/?username=Ares90125&column=6&title=Stars,Followers,Commit,Issues,PullRequest,Repo">
+      </a>
+    </div>
+</p>
 <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> 
 </a>
