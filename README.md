@@ -186,5 +186,7 @@ My Goal is to give my clients over 100% satisfaction and to implement your ideas
 <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> 
 </a> -->
   <br><br>
-<a href="https://app.daily.dev/Ares" align="center"><img src="https://github.com/Ares90125/Ares90125/blob/main/devcard.svg" width="250" alt="Ares's Dev Card"/></a>
+<p align="center">
+  <a href="https://app.daily.dev/Ares" align="center"><img src="https://github.com/Ares90125/Ares90125/blob/main/devcard.svg" width="250" alt="Ares's Dev Card"/></a>
+</p>
 </div>
