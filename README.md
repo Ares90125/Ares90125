@@ -163,8 +163,8 @@ My Goal is to give my clients over 100% satisfaction and to implement your ideas
 | Github Stats | Top Languages |
 | --- | --- |
 | ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=Ares90125&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ares90125&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
-
-<h4 align="center">My contribution graph</h4>
+<!-- 
+<h4 align="center">My contribution graph</h4> -->
 <!-- <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> 
 </a> -->
