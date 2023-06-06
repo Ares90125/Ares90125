@@ -165,10 +165,6 @@ My Goal is to give my clients over 100% satisfaction and to implement your ideas
 | ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=Ares90125&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ares90125&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 <h4 align="center">My contribution graph</h4>
-
-<p align="center"> <img width="900em" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ares90125&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Vikash's Github Graph" /> </p> 
-<h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4> 
-  ####
 <!-- <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> 
 </a> -->
