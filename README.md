@@ -4,7 +4,9 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Ares90125"/></a>
   <a href="https://github.com/Ares90125?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Ares90125?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-[GitHub Profile Views Counter]: https://github.com/Ares90125/github-profile-views-counter
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+      <img src="https://komarev.com/ghpvc/?username=Ares90125&style=for-the-badge">
+  </a>
 </p>
 </div>
 <hr>
